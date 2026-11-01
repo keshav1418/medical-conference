@@ -97,8 +97,9 @@ npm run build
 
 ## Author
 **Keshav**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Add your link]
+- GitHub: (https://github.com/keshav1418)
+- LinkedIn: https://www.linkedin.com/in/keshav-manchikanti-a738332b1/
+- portfoilo : https://keshav1418.github.io/MY-PORTFOILO/
 
 ## License
 This project is open source and available under the [MIT License](LICENSE).
